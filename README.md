@@ -1,4 +1,4 @@
 # Indoor-Field-Reservation-Management-System
-Reservation management application to keep track of the renting of indoor soccer fields
+Windows Application that served as a reservation management system for an Indoor Soccer field rental center in Houston, TX
 
 For more in-depth information, please refer to INDOOR PROJECT REPORT.pdf above.
