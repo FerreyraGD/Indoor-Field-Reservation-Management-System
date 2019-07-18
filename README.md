@@ -16,7 +16,7 @@ This app aimed to create a CRUD interface where an employee could store all the 
 MySQL Database Setup:
 * Connected through the ip/socket combination for the local MySQL Server and using the MySQL API to connect to the database
 * The database was a relational SQL database based on the following ER diagram/schema:
-<img src="https://user-images.githubusercontent.com/39919952/61255154-09207600-a72d-11e9-8de2-bda8a9dd087d.png" height="400" alt="Screenshot"/> 
+<img src="https://user-images.githubusercontent.com/39919952/61493623-a96ada80-a979-11e9-8aba-4ec9cf1f0717.png" height="400" alt="Screenshot"/> 
 
 Technologies Used
 -------------
